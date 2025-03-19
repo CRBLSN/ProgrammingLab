@@ -8,3 +8,5 @@ for parola in speranza:
     print(parola)
 
 '''altre modifiche per vedere se funziona'''
+
+b="ora avremo la risposta finale"
