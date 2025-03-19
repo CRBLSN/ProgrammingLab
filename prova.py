@@ -1,5 +1,5 @@
 '''questo è un test per guardare se git 
-   mi chiede le credenziali ad ogni push 
+   mi chiede le crxedenziali ad ogni push 
    o meno'''
 
 speranza = "speriamo che git non me le chieda ogni volta"
