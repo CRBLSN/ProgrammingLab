@@ -7,4 +7,4 @@ speranza=speranza.split(" ")
 for parola in speranza:
     print(parola)
 
-
+'''altre modifiche per vedere se funziona'''
